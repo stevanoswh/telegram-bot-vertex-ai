@@ -1,0 +1,90 @@
+ILED (Intensive Learning & Education Development) Guidelines
+Enigmacamp Bootcamp Online 2.0
+
+A. DEFINISI & TUJUAN
+1. Definisi ILED:
+   - Program pembelajaran intensif 2x seminggu untuk peserta Bootcamp Online 2.0
+   - Dilaksanakan setiap Senin dan Selasa, 19:30 - 20:30 WIB
+   - Sesi konsultasi online dengan instruktur/trainer
+
+2. Tujuan:
+   - Memfasilitasi pemahaman materi LMS
+   - Memberikan kesempatan tanya jawab langsung
+   - Pendalaman materi melalui diskusi dan demo
+
+B. MEKANISME PEMBELAJARAN
+1. Format Sesi:
+   - Fundamental (Senin): Pengenalan dasar konsep
+   - Intermediate (Selasa): Pengembangan & praktik
+   - Durasi: 60 menit per sesi
+
+2. Alur Pembelajaran:
+   a. Pembelajaran Mandiri di LMS:
+      - Menonton video pembelajaran
+      - Mengerjakan quiz & code challenge
+      - Menyelesaikan final submission per topik
+
+   b. Sesi ILED:
+      - Tanya jawab materi LMS
+      - Demo & praktek langsung
+      - Pembahasan studi kasus
+
+C. KETENTUAN TEKNIS
+1. Platform & Infrastruktur:
+   - Menggunakan Discord
+   - Wajib share screen saat demo
+   - Kualitas mic harus jernih
+   - Koneksi internet stabil
+
+2. Kewajiban Trainer:
+   - Hadir 5 menit sebelum sesi
+   - Mempersiapkan materi sesuai silabus
+   - Memberikan contoh praktis
+   - Mendokumentasikan pertanyaan peserta
+   - Mengisi form kehadiran
+   - Menyimpan rekaman sesi
+
+D. MATERI PEMBELAJARAN
+1. Stack Pre-20 Feb 2025:
+   - React JS & Native
+   - Java
+   - Golang
+
+2. Stack Post-20 Feb 2025:
+   - Devops
+   - .NET
+   - Kotlin
+
+E. KETENTUAN ADMINISTRASI
+1. Kompensasi Trainer:
+   - Rp 50.000/jam per sesi ILED
+   - Dibayarkan sebagai uang lembur (di luar office hour)
+
+2. Prosedur Pergantian Jadwal:
+   a. Jika berhalangan:
+      - Trainer wajib mencari pengganti
+      - Menginformasikan ke PIC ILED (Aditira Jamhuri)
+   
+   b. Jika tidak ada pengganti:
+      - Melapor ke PIC ILED
+      - PIC akan koordinasi dengan tim Telemarketing
+      - Jadwal ILED akan diundur
+
+F. INCUBATION CLASS
+1. Kriteria Peserta:
+   - Menyelesaikan pembelajaran di LMS
+   - Rekam jejak baik di coding assignments
+   - Komitmen penuh selama periode ILED
+
+2. Jadwal per Stack:
+   a. Java (3 minggu):
+      - 2 minggu materi (Java fundamental-advanced, Springboot, Docker)
+      - 1 minggu final project
+
+   b. Golang (3 minggu):
+      - 2 minggu materi (Database PostgreSQL, API dengan Gin Framework)
+      - 1 minggu final project
+
+   c. React (8 hari):
+      - 3 hari challenge & live code
+      - 5 hari final project (Components, Hooks, State Management)

@@ -1,0 +1,10 @@
+langchain
+langchain_community
+langchain_google_vertexai
+langgraph
+pinecone-client
+pinecone
+google-auth
+google-auth-oauthlib
+google-api-python-client
+python-telegram-bot
